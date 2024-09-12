@@ -1,2 +1,8 @@
 # trabajo-FIP
 Primer trabajo de viviana.
+
+JOSE LABOURDETTE
+VALENTINO CUNIOLO
+CARO
+MAYRA
+AILIN
