@@ -1,0 +1,23 @@
+#contenedor1 {
+    display: flex;
+    flex-wrap: nowrap;
+    width: auto;
+    height: auto;
+    border: 2px solid hsla(27, 90%, 45%, 0.918);  
+    justify-content: center;
+  }
+
+#contenedor2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 450px;
+    border: 2px solid hsla(131, 80%, 35%, 0.918);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 2px;
+    justify-content: center;
+  }
+  
+ 
+  
